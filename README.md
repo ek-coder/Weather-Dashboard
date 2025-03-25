@@ -1,6 +1,6 @@
 # 🌦️ Weather Dashboard
 
-A **visually appealing** and **feature-rich** Weather Dashboard built using **React (Vite)** and **OpenWeatherMap API**. It provides real-time weather updates, a 10-day forecast, and weather highlights like **UV Index, Visibility, Sunrise, and Sunset** timings.
+A **visually appealing** and **feature-rich** Weather Dashboard built using **React (Vite)** and **OpenWeatherMap API**. It provides real-time weather updates, a 5-day forecast, and weather highlights like **UV Index, Visibility, Sunrise, and Sunset** timings.
 
 🔗 **Live Demo:** [Deployed Link](https://weather-dashboard-ecru.vercel.app/)
 
@@ -8,7 +8,7 @@ A **visually appealing** and **feature-rich** Weather Dashboard built using **Re
 
 ## 🚀 Features  
 ✅ **Real-time Weather** – Get the latest weather details for any location.  
-✅ **5-Day Forecast** – Displays the forecast for the next 10 days.  
+✅ **5-Day Forecast** – Displays the forecast for the next 5 days.  
 ✅ **Weather Highlights** – Wind speed, humidity, UV index, visibility, sunrise & sunset.  
 ✅ **Search Functionality** – Search and get weather updates for any city.  
 ✅ **Responsive Design** – Works smoothly on all screen sizes.  
