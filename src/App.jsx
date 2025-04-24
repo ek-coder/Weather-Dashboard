@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const API_KEY = "128dcc08bbd92630daa156923027a9ea"; 
+const API_KEY = "YOUR-API-KEY"; 
 
 const WeatherDashboard = () => {
     const [city, setCity] = useState("Dhaka");
